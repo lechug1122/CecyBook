@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:opacity="opaque"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/gray"/>
+
+    <item
+        android:left="2dp"
+        android:right="200dp"
+        android:top="190dp"
+        android:bottom="260dp"
+        android:width="400dp"
+        android:height="400dp">
+
+        <bitmap
+            android:src="@drawable/escundo2" />
+    </item>
+
+</layer-list>
